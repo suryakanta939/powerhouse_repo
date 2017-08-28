@@ -1,0 +1,8 @@
+<suite name="powerhouse suite">
+<test name="power house">
+<classes>
+<class name="com.powerhouse.testcases.MultipleRegistration"/>
+<class name="com.powerhouse.testcases.PurchasePowersiteSubscription"/>
+</classes>
+</test>
+</suite>
